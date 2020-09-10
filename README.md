@@ -8,3 +8,7 @@ Let's see what's what.
 ## Subheader
 
 A new fine test, is it not?
+
+## Local Development
+
+1) Open index.html in your browser.
